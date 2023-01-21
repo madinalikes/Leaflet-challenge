@@ -9,7 +9,7 @@ This project utilizes leaflet, Javascript and D3 to visualize the earthquake dat
 
 This project utilizes leaflet, Javascript, HTML and D3 to visualize the earthquake data from the United States Geological Survey (USGS). 
 
-Part-1: Basic Visualization
+**Part-1:** Basic Visualization
 Get the Data Set
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes
 The "All Earthquakes from the Past 7 Days" data set was selected from the USGS GeoJSON Feed page
@@ -23,7 +23,7 @@ Popups that provide additional information about the earthquake were included wh
 A legend was created to provide context for the map data
 
 
-Part-2: More Data
+**Part-2**: More Data
 Plot a second data set on the map above to illustrate the relationship between tectonic plates and seismic activity.
 
 Pull in Tectonic Plates data set
@@ -32,6 +32,4 @@ Add a number of base maps (Satellite Map, Grayscale Map, Outdoors Map and Dark M
 Separate out the two different data sets (earthquakes and tectonic plates) into overlays that can be turned on and off independently
 Add layer controls to the map
 
-
-Copyright
-Jiuhe Zhu © 2020. All Rights Reserved.
+`_`
