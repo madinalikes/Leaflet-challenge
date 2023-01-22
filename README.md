@@ -1,5 +1,6 @@
 **Visualizing Data with Leaflet**
 ---
+<img width="731" alt="image" src="https://user-images.githubusercontent.com/111404552/213930680-b935a185-328f-46f9-8cec-10ed7c523ce7.png">
 
 This project utilizes leaflet, Javascript and D3 to visualize the earthquake data from the United States Geological Survey (USGS).The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
